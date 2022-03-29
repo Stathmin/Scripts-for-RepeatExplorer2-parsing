@@ -1,0 +1,1458 @@
+"Supercluster"	"Number of reads"	"Automatic_annotation"	"Similarity_hits"	"TAREAN_annotation"	"Clusters"
+1	429584	"Athila"	"                                                | nhits | proportion |                                                                        features
+------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 25162 | 0.059      |                                                                                
+ |--organelle                                   | 79    | 0.00018    |                                                                                
+ |   |--plastid                                 | 15    | 3.5e-05    |                                                                                
+ |   '--mitochondria                            | 64    | 0.00015    |                                                                                
+ '--repeat                                      | 25083 | 0.058      |                                                                                
+     '--mobile_element                          | 25083 | 0.058      |                                                                                
+         |--Class_I                             | 25077 | 0.058      |                                                                                
+         |   '--LTR                             | 25077 | 0.058      | LTR/PBS                                                                        
+         |       |--Ty1_copia                   | 20    | 4.7e-05    |                                                                                
+         |       |   |--Ale                     | 2     | 4.7e-06    | 2 (Ty1-GAG),                                                                   
+         |       |   |--Angela                  | 10    | 2.3e-05    | 1 (Ty1-GAG), 6 (Ty1-INT), 1 (Ty1-RH), 2 (Ty1-RT),                              
+         |       |   |--SIRE                    | 1     | 2.3e-06    | 1 (Ty1-RH),                                                                    
+         |       |   |--TAR                     | 6     | 1.4e-05    | 5 (Ty1-INT), 1 (Ty1-RT),                                                       
+         |       |   '--Tork                    | 1     | 2.3e-06    | 1 (Ty1-RT),                                                                    
+         |       '--Ty3_gypsy                   | 25057 | 0.058      |                                                                                
+         |           |--non-chromovirus         | 25050 | 0.058      |                                                                                
+         |           |   |--Phygy               | 1     | 2.3e-06    | 1 (Ty3-INT),                                                                   
+         |           |   '--OTA                 | 25049 | 0.058      |                                                                                
+         |           |       |--Athila          | 24981 | 0.058      | 5219 (Ty3-GAG), 7583 (Ty3-INT), 3646 (Ty3-PROT), 3469 (Ty3-RH), 5064 (Ty3-RT), 
+         |           |       '--Tat             | 68    | 0.00016    |                                                                                
+         |           |           |--Ogre        | 18    | 4.2e-05    | 18 (Ty3-GAG),                                                                  
+         |           |           '--Retand      | 50    | 0.00012    | 37 (Ty3-GAG), 7 (Ty3-INT), 6 (Ty3-RT),                                         
+         |           '--chromovirus             | 7     | 1.6e-05    |                                                                                
+         |               |--CRM                 | 1     | 2.3e-06    | 1 (Ty3-GAG),                                                                   
+         |               |--Tekay               | 2     | 4.7e-06    | 1 (Ty3-INT), 1 (Ty3-RT),                                                       
+         |               '--Reina               | 4     | 9.3e-06    | 1 (Ty3-PROT), 3 (Ty3-RH),                                                      
+         '--Class_II                            | 6     | 1.4e-05    |                                                                                
+             '--Subclass_1                      | 6     | 1.4e-05    |                                                                                
+                 '--TIR                         | 6     | 1.4e-05    |                                                                                
+                     |--EnSpm_CACTA             | 3     | 7e-06      | 3 (CACTA-TPase),                                                               
+                     '--MuDR_Mutator            | 3     | 7e-06      | 3 (MuDR-TPase),                                                                "	NA	"5,10,16,26,32,33,36,47,48,56,58,60,63,69,73,74,93,103,119,121,129,132,147,1,3,25,17,40,31,34,24"
+2	199119	"Angela"	"                                                | nhits | proportion |                                                                          features
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 41421 | 0.21       |                                                                                  
+ |--organelle                                   | 16    | 8e-05      |                                                                                  
+ |   |--plastid                                 | 5     | 2.5e-05    |                                                                                  
+ |   '--mitochondria                            | 11    | 5.5e-05    |                                                                                  
+ '--repeat                                      | 41405 | 0.21       |                                                                                  
+     '--mobile_element                          | 41405 | 0.21       |                                                                                  
+         |--Class_I                             | 41404 | 0.21       |                                                                                  
+         |   '--LTR                             | 41404 | 0.21       | LTR/PBS                                                                          
+         |       |--Ty1_copia                   | 41368 | 0.21       |                                                                                  
+         |       |   |--Ale                     | 11    | 5.5e-05    | 1 (Ty1-RH), 10 (Ty1-RT),                                                         
+         |       |   |--Angela                  | 41319 | 0.21       | 5139 (Ty1-GAG), 12444 (Ty1-INT), 3893 (Ty1-PROT), 4735 (Ty1-RH), 15108 (Ty1-RT), 
+         |       |   |--Ikeros                  | 35    | 0.00018    | 8 (Ty1-INT), 27 (Ty1-RT),                                                        
+         |       |   |--Ivana                   | 1     | 5e-06      | 1 (Ty1-RH),                                                                      
+         |       |   |--SIRE                    | 1     | 5e-06      | 1 (Ty1-RT),                                                                      
+         |       |   '--Ty1-outgroup            | 1     | 5e-06      | 1 (Ty1-INT),                                                                     
+         |       '--Ty3_gypsy                   | 36    | 0.00018    |                                                                                  
+         |           |--non-chromovirus         | 2     | 1e-05      |                                                                                  
+         |           |   '--OTA                 | 2     | 1e-05      |                                                                                  
+         |           |       '--Tat             | 2     | 1e-05      |                                                                                  
+         |           |           '--Retand      | 2     | 1e-05      | 1 (Ty3-aRH), 1 (Ty3-RH),                                                         
+         |           '--chromovirus             | 34    | 0.00017    |                                                                                  
+         |               |--CRM                 | 32    | 0.00016    | 32 (Ty3-INT),                                                                    
+         |               '--Tekay               | 2     | 1e-05      | 1 (Ty3-INT), 1 (Ty3-RH),                                                         
+         '--Class_II                            | 1     | 5e-06      |                                                                                  
+             '--Subclass_1                      | 1     | 5e-06      |                                                                                  
+                 '--TIR                         | 1     | 5e-06      |                                                                                  
+                     '--EnSpm_CACTA             | 1     | 5e-06      | 1 (CACTA-TPase),                                                                 "	NA	"14,18,22,39,42,44,55,71,136,7,2,11"
+3	75066	"Tekay"	"                                                | nhits | proportion |                                                                                     features
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 9193  | 0.12       |                                                                                             
+ |--organelle                                   | 5     | 6.7e-05    |                                                                                             
+ |   |--plastid                                 | 3     | 4e-05      |                                                                                             
+ |   '--mitochondria                            | 2     | 2.7e-05    |                                                                                             
+ '--repeat                                      | 9188  | 0.12       |                                                                                             
+     '--mobile_element                          | 9188  | 0.12       |                                                                                             
+         |--Class_I                             | 9187  | 0.12       |                                                                                             
+         |   |--LTR                             | 9186  | 0.12       | LTR/PBS                                                                                     
+         |   |   |--Ty1_copia                   | 2     | 2.7e-05    |                                                                                             
+         |   |   |   '--Angela                  | 2     | 2.7e-05    | 1 (Ty1-INT), 1 (Ty1-RT),                                                                    
+         |   |   '--Ty3_gypsy                   | 9184  | 0.12       |                                                                                             
+         |   |       |--non-chromovirus         | 7     | 9.3e-05    |                                                                                             
+         |   |       |   '--OTA                 | 7     | 9.3e-05    |                                                                                             
+         |   |       |       |--Athila          | 3     | 4e-05      | 1 (Ty3-INT), 2 (Ty3-RH),                                                                    
+         |   |       |       '--Tat             | 4     | 5.3e-05    |                                                                                             
+         |   |       |           |--Ogre        | 1     | 1.3e-05    | 1 (Ty3-aRH),                                                                                
+         |   |       |           '--Retand      | 3     | 4e-05      | 2 (Ty3-GAG), 1 (Ty3-INT),                                                                   
+         |   |       '--chromovirus             | 9177  | 0.12       |                                                                                             
+         |   |           |--Chlamyvir           | 10    | 0.00013    | 10 (Ty3-RT),                                                                                
+         |   |           |--Tcn1                | 2     | 2.7e-05    | 2 (Ty3-RT),                                                                                 
+         |   |           |--chromo-outgroup     | 2     | 2.7e-05    | 2 (Ty3-RT),                                                                                 
+         |   |           |--CRM                 | 25    | 0.00033    | 2 (Ty3-GAG), 21 (Ty3-INT), 2 (Ty3-RT),                                                      
+         |   |           |--Tekay               | 9125  | 0.12       | 728 (Ty3-CHD), 893 (Ty3-GAG), 3525 (Ty3-INT), 397 (Ty3-PROT), 1600 (Ty3-RH), 1982 (Ty3-RT), 
+         |   |           |--Reina               | 12    | 0.00016    | 2 (Ty3-GAG), 10 (Ty3-RT),                                                                   
+         |   |           '--chromo-unclass      | 1     | 1.3e-05    | 1 (Ty3-INT),                                                                                
+         |   '--pararetrovirus                  | 1     | 1.3e-05    | 1 (PARA-RT),                                                                                
+         '--Class_II                            | 1     | 1.3e-05    |                                                                                             
+             '--Subclass_1                      | 1     | 1.3e-05    |                                                                                             
+                 '--TIR                         | 1     | 1.3e-05    |                                                                                             
+                     '--PIF_Harbinger           | 1     | 1.3e-05    | 1 (Harbinger-TPase),                                                                        "	NA	"37,70,117,4,19"
+4	63568	"repeat"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 12720 | 0.2        |              
+ |--organelle                                   | 1940  | 0.031      |              
+ |   |--plastid                                 | 1939  | 0.03       |              
+ |   '--mitochondria                            | 1     | 1.6e-05    |              
+ '--repeat                                      | 10780 | 0.17       |              
+     |--satellite                               | 10776 | 0.17       |              
+     '--mobile_element                          | 4     | 6.3e-05    |              
+         '--Class_I                             | 4     | 6.3e-05    |              
+             '--LTR                             | 4     | 6.3e-05    |              
+                 |--Ty1_copia                   | 3     | 4.7e-05    |              
+                 |   |--Angela                  | 2     | 3.2e-05    | 2 (Ty1-RH),  
+                 |   '--Ikeros                  | 1     | 1.6e-05    | 1 (Ty1-INT), 
+                 '--Ty3_gypsy                   | 1     | 1.6e-05    |              
+                     '--chromovirus             | 1     | 1.6e-05    |              
+                         '--Tekay               | 1     | 1.6e-05    | 1 (Ty3-RT),  "	"68 - Putative satellites (low confidence)"	"84,88,111,133,45,81,68"
+5	45533	"plastid"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 45497 | 1          |             
+ |--organelle                                   | 45494 | 1          |             
+ |   |--plastid                                 | 45288 | 1          |             
+ |   '--mitochondria                            | 206   | 0.0045     |             
+ '--repeat                                      | 3     | 6.6e-05    |             
+     '--mobile_element                          | 3     | 6.6e-05    |             
+         '--Class_I                             | 3     | 6.6e-05    |             
+             '--LTR                             | 3     | 6.6e-05    |             
+                 '--Ty3_gypsy                   | 3     | 6.6e-05    |             
+                     '--chromovirus             | 3     | 6.6e-05    |             
+                         '--Reina               | 3     | 6.6e-05    | 3 (Ty3-RT), "	NA	"127,131,148,150,158,182,202,108,97,137"
+6	41716	"repeat"	"                                                | nhits | proportion |              features
+--------------------------------------------------------------------------------------------
+All                                             | 16877 | 0.4        |                      
+ |--organelle                                   | 3     | 7.2e-05    |                      
+ |   '--mitochondria                            | 3     | 7.2e-05    |                      
+ '--repeat                                      | 16874 | 0.4        |                      
+     |--satellite                               | 16867 | 0.4        |                      
+     '--mobile_element                          | 7     | 0.00017    |                      
+         |--Class_I                             | 3     | 7.2e-05    |                      
+         |   '--LTR                             | 3     | 7.2e-05    |                      
+         |       |--Ty1_copia                   | 2     | 4.8e-05    |                      
+         |       |   |--Ale                     | 1     | 2.4e-05    | 1 (Ty1-INT),         
+         |       |   '--Angela                  | 1     | 2.4e-05    | 1 (Ty1-RH),          
+         |       '--Ty3_gypsy                   | 1     | 2.4e-05    |                      
+         |           '--chromovirus             | 1     | 2.4e-05    |                      
+         |               '--Tekay               | 1     | 2.4e-05    | 1 (Ty3-RT),          
+         '--Class_II                            | 4     | 9.6e-05    |                      
+             |--Subclass_1                      | 1     | 2.4e-05    |                      
+             |   '--TIR                         | 1     | 2.4e-05    |                      
+             |       '--PIF_Harbinger           | 1     | 2.4e-05    | 1 (Harbinger-TPase), 
+             '--Subclass_2                      | 3     | 7.2e-05    |                      
+                 '--Helitron                    | 3     | 7.2e-05    | 3 (Helitron-HEL1),   "	"27 - Putative satellites (low confidence)"	"66,89,123,27"
+7	41558	"Retand"	"                                                | nhits | proportion |                                      features
+--------------------------------------------------------------------------------------------------------------------
+All                                             | 2192  | 0.053      |                                              
+ |--organelle                                   | 218   | 0.0052     |                                              
+ |   |--plastid                                 | 217   | 0.0052     |                                              
+ |   '--mitochondria                            | 1     | 2.4e-05    |                                              
+ '--repeat                                      | 1974  | 0.048      |                                              
+     '--mobile_element                          | 1974  | 0.048      |                                              
+         '--Class_I                             | 1974  | 0.048      |                                              
+             '--LTR                             | 1974  | 0.048      | LTR/PBS                                      
+                 |--Ty1_copia                   | 3     | 7.2e-05    |                                              
+                 |   |--Angela                  | 1     | 2.4e-05    | 1 (Ty1-INT),                                 
+                 |   '--SIRE                    | 2     | 4.8e-05    | 1 (Ty1-INT), 1 (Ty1-RT),                     
+                 '--Ty3_gypsy                   | 1971  | 0.047      |                                              
+                     |--non-chromovirus         | 1970  | 0.047      |                                              
+                     |   '--OTA                 | 1970  | 0.047      |                                              
+                     |       |--Athila          | 117   | 0.0028     | 117 (Ty3-GAG),                               
+                     |       '--Tat             | 1853  | 0.045      |                                              
+                     |           |--TatII       | 1     | 2.4e-05    | 1 (Ty3-GAG),                                 
+                     |           '--Retand      | 1852  | 0.045      | 1 (Ty3-aRH), 776 (Ty3-GAG), 1075 (Ty3-PROT), 
+                     '--chromovirus             | 1     | 2.4e-05    |                                              
+                         '--CRM                 | 1     | 2.4e-05    | 1 (Ty3-INT),                                 "	NA	"38,85,21"
+8	39912	"repeat"	"                                                | nhits | proportion |             features
+-------------------------------------------------------------------------------------------
+All                                             | 24138 | 0.6        |                     
+ |--organelle                                   | 2     | 5e-05      |                     
+ |   '--plastid                                 | 2     | 5e-05      |                     
+ '--repeat                                      | 24136 | 0.6        |                     
+     |--satellite                               | 20264 | 0.51       |                     
+     '--mobile_element                          | 3872  | 0.097      |                     
+         |--Class_I                             | 4     | 1e-04      |                     
+         |   '--LTR                             | 4     | 1e-04      |                     
+         |       |--Ty1_copia                   | 2     | 5e-05      |                     
+         |       |   |--Angela                  | 1     | 2.5e-05    | 1 (Ty1-INT),        
+         |       |   '--Ivana                   | 1     | 2.5e-05    | 1 (Ty1-INT),        
+         |       '--Ty3_gypsy                   | 2     | 5e-05      |                     
+         |           '--chromovirus             | 2     | 5e-05      |                     
+         |               '--Reina               | 2     | 5e-05      | 2 (Ty3-INT),        
+         '--Class_II                            | 3868  | 0.097      |                     
+             '--Subclass_1                      | 3868  | 0.097      |                     
+                 '--TIR                         | 3868  | 0.097      |                     
+                     '--EnSpm_CACTA             | 3868  | 0.097      | 3868 (CACTA-TPase), "	"15 - Putative satellites (high confidence)"	"65,125,162,15"
+9	34079	"SIRE"	"                                                | nhits | proportion |                                                                      features
+----------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 5376  | 0.16       |                                                                              
+ |--organelle                                   | 1     | 2.9e-05    |                                                                              
+ |   '--mitochondria                            | 1     | 2.9e-05    |                                                                              
+ '--repeat                                      | 5375  | 0.16       |                                                                              
+     '--mobile_element                          | 5375  | 0.16       |                                                                              
+         '--Class_I                             | 5375  | 0.16       |                                                                              
+             '--LTR                             | 5375  | 0.16       | LTR/PBS                                                                      
+                 |--Ty1_copia                   | 5370  | 0.16       |                                                                              
+                 |   |--Ale                     | 41    | 0.0012     | 17 (Ty1-INT), 5 (Ty1-PROT), 10 (Ty1-RH), 9 (Ty1-RT),                         
+                 |   |--Alesia                  | 8     | 0.00024    | 7 (Ty1-PROT), 1 (Ty1-RT),                                                    
+                 |   |--Gymco-I                 | 1     | 2.9e-05    | 1 (Ty1-RT),                                                                  
+                 |   |--Ikeros                  | 1     | 2.9e-05    | 1 (Ty1-RT),                                                                  
+                 |   |--Ivana                   | 354   | 0.01       | 3 (Ty1-GAG), 5 (Ty1-INT), 67 (Ty1-PROT), 144 (Ty1-RH), 135 (Ty1-RT),         
+                 |   |--SIRE                    | 4958  | 0.14       | 164 (Ty1-GAG), 1453 (Ty1-INT), 328 (Ty1-PROT), 1002 (Ty1-RH), 2011 (Ty1-RT), 
+                 |   |--TAR                     | 2     | 5.9e-05    | 2 (Ty1-RT),                                                                  
+                 |   '--Tork                    | 5     | 0.00015    | 1 (Ty1-INT), 3 (Ty1-PROT), 1 (Ty1-RT),                                       
+                 '--Ty3_gypsy                   | 5     | 0.00015    |                                                                              
+                     |--non-chromovirus         | 4     | 0.00012    |                                                                              
+                     |   '--OTA                 | 4     | 0.00012    |                                                                              
+                     |       |--Athila          | 1     | 2.9e-05    | 1 (Ty3-RT),                                                                  
+                     |       '--Tat             | 3     | 8.8e-05    |                                                                              
+                     |           '--Ogre        | 3     | 8.8e-05    | 3 (Ty3-INT),                                                                 
+                     '--chromovirus             | 1     | 2.9e-05    |                                                                              
+                         '--Galadriel           | 1     | 2.9e-05    | 1 (Ty3-RT),                                                                  "	NA	"78,86,152,232,61"
+10	31862	"SIRE"	"                                                | nhits | proportion |                                                                   features
+-------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 2868  | 0.09       |                                                                           
+ |--organelle                                   | 1     | 3.1e-05    |                                                                           
+ |   '--plastid                                 | 1     | 3.1e-05    |                                                                           
+ '--repeat                                      | 2867  | 0.09       |                                                                           
+     '--mobile_element                          | 2867  | 0.09       |                                                                           
+         '--Class_I                             | 2867  | 0.09       |                                                                           
+             '--LTR                             | 2867  | 0.09       | LTR/PBS                                                                   
+                 '--Ty1_copia                   | 2867  | 0.09       |                                                                           
+                     |--Ale                     | 5     | 0.00016    | 1 (Ty1-PROT), 1 (Ty1-RH), 3 (Ty1-RT),                                     
+                     |--Alesia                  | 2     | 6.3e-05    | 2 (Ty1-PROT),                                                             
+                     |--Angela                  | 2     | 6.3e-05    | 2 (Ty1-RT),                                                               
+                     |--Ivana                   | 116   | 0.0036     | 1 (Ty1-GAG), 14 (Ty1-PROT), 85 (Ty1-RH), 16 (Ty1-RT),                     
+                     '--SIRE                    | 2742  | 0.086      | 444 (Ty1-GAG), 690 (Ty1-INT), 222 (Ty1-PROT), 448 (Ty1-RH), 938 (Ty1-RT), "	NA	"94,96,149,165,190,90"
+11	31744	"Retand"	"                                                | nhits | proportion |                                                                                       features
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 13310 | 0.42       |                                                                                               
+ '--repeat                                      | 13310 | 0.42       |                                                                                               
+     '--mobile_element                          | 13310 | 0.42       |                                                                                               
+         |--Class_I                             | 13309 | 0.42       |                                                                                               
+         |   '--LTR                             | 13309 | 0.42       |                                                                                               
+         |       |--Ty1_copia                   | 1     | 3.2e-05    |                                                                                               
+         |       |   '--Angela                  | 1     | 3.2e-05    | 1 (Ty1-GAG),                                                                                  
+         |       '--Ty3_gypsy                   | 13308 | 0.42       |                                                                                               
+         |           |--non-chromovirus         | 13306 | 0.42       |                                                                                               
+         |           |   '--OTA                 | 13306 | 0.42       |                                                                                               
+         |           |       '--Tat             | 13306 | 0.42       |                                                                                               
+         |           |           |--TatII       | 2     | 6.3e-05    | 2 (Ty3-RT),                                                                                   
+         |           |           |--Ogre        | 98    | 0.0031     | 2 (Ty3-aRH), 1 (Ty3-INT), 6 (Ty3-PROT), 89 (Ty3-RT),                                          
+         |           |           '--Retand      | 13206 | 0.42       | 1714 (Ty3-aRH), 1279 (Ty3-GAG), 4264 (Ty3-INT), 872 (Ty3-PROT), 1702 (Ty3-RH), 3375 (Ty3-RT), 
+         |           '--chromovirus             | 2     | 6.3e-05    |                                                                                               
+         |               |--Tcn1                | 1     | 3.2e-05    | 1 (Ty3-RH),                                                                                   
+         |               '--Reina               | 1     | 3.2e-05    | 1 (Ty3-RH),                                                                                   
+         '--Class_II                            | 1     | 3.2e-05    |                                                                                               
+             '--Subclass_2                      | 1     | 3.2e-05    |                                                                                               
+                 '--Helitron                    | 1     | 3.2e-05    | 1 (Helitron-HEL2),                                                                            "	NA	"144,23,79"
+12	31423	"LTR"	"                                                | nhits | proportion |                  features
+------------------------------------------------------------------------------------------------
+All                                             | 6     | 0.00019    |                          
+ |--organelle                                   | 2     | 6.4e-05    |                          
+ |   '--plastid                                 | 2     | 6.4e-05    |                          
+ '--repeat                                      | 4     | 0.00013    |                          
+     '--mobile_element                          | 4     | 0.00013    |                          
+         '--Class_I                             | 4     | 0.00013    |                          
+             |--LTR                             | 3     | 9.5e-05    | LTR/PBS                  
+             |   |--Ty1_copia                   | 1     | 3.2e-05    |                          
+             |   |   '--Angela                  | 1     | 3.2e-05    | 1 (Ty1-INT),             
+             |   '--Ty3_gypsy                   | 2     | 6.4e-05    |                          
+             |       '--non-chromovirus         | 2     | 6.4e-05    |                          
+             |           '--OTA                 | 2     | 6.4e-05    |                          
+             |               '--Tat             | 2     | 6.4e-05    |                          
+             |                   '--Retand      | 2     | 6.4e-05    | 1 (Ty3-INT), 1 (Ty3-RT), 
+             '--LINE                            | 1     | 3.2e-05    | 1 (LINE-ENDO),           "	NA	"83,8"
+13	27603	"Angela"	"                                                | nhits | proportion |                                                               features
+---------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 730   | 0.026      |                                                                       
+ |--organelle                                   | 1     | 3.6e-05    |                                                                       
+ |   '--plastid                                 | 1     | 3.6e-05    |                                                                       
+ '--repeat                                      | 729   | 0.026      |                                                                       
+     '--mobile_element                          | 729   | 0.026      |                                                                       
+         '--Class_I                             | 729   | 0.026      |                                                                       
+             '--LTR                             | 729   | 0.026      |                                                                       
+                 |--Ty1_copia                   | 728   | 0.026      |                                                                       
+                 |   |--Angela                  | 714   | 0.026      | 5 (Ty1-GAG), 423 (Ty1-INT), 14 (Ty1-PROT), 57 (Ty1-RH), 215 (Ty1-RT), 
+                 |   |--Ikeros                  | 7     | 0.00025    | 7 (Ty1-INT),                                                          
+                 |   '--Ivana                   | 7     | 0.00025    | 7 (Ty1-INT),                                                          
+                 '--Ty3_gypsy                   | 1     | 3.6e-05    |                                                                       
+                     '--chromovirus             | 1     | 3.6e-05    |                                                                       
+                         '--Reina               | 1     | 3.6e-05    | 1 (Ty3-INT),                                                          "	NA	"102,249,75,77"
+14	26583	"CRM"	"                                                | nhits | proportion |                                                                                        features
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 8457  | 0.32       |                                                                                                
+ |--organelle                                   | 3     | 0.00011    |                                                                                                
+ |   '--plastid                                 | 3     | 0.00011    |                                                                                                
+ '--repeat                                      | 8454  | 0.32       |                                                                                                
+     '--mobile_element                          | 8454  | 0.32       |                                                                                                
+         '--Class_I                             | 8454  | 0.32       |                                                                                                
+             '--LTR                             | 8454  | 0.32       |                                                                                                
+                 '--Ty3_gypsy                   | 8454  | 0.32       |                                                                                                
+                     '--chromovirus             | 8454  | 0.32       |                                                                                                
+                         |--CRM                 | 8452  | 0.32       | 649 (Ty3-CHDCR), 1715 (Ty3-GAG), 2169 (Ty3-INT), 807 (Ty3-PROT), 1158 (Ty3-RH), 1954 (Ty3-RT), 
+                         |--Galadriel           | 1     | 3.8e-05    | 1 (Ty3-RT),                                                                                    
+                         '--Reina               | 1     | 3.8e-05    | 1 (Ty3-RT),                                                                                    "	NA	"104,167,179,41"
+15	24354	"NA"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 8     | 0.00033    |                
+ |--organelle                                   | 1     | 4.1e-05    |                
+ |   '--mitochondria                            | 1     | 4.1e-05    |                
+ '--repeat                                      | 7     | 0.00029    |                
+     |--rDNA                                    | 1     | 4.1e-05    |                
+     |   '--45S_rDNA                            | 1     | 4.1e-05    |                
+     |       '--18S_rDNA                        | 1     | 4.1e-05    |                
+     '--mobile_element                          | 6     | 0.00025    |                
+         '--Class_I                             | 6     | 0.00025    |                
+             |--LTR                             | 5     | 0.00021    |                
+             |   |--Ty1_copia                   | 3     | 0.00012    |                
+             |   |   |--Ale                     | 1     | 4.1e-05    | 1 (Ty1-INT),   
+             |   |   '--Angela                  | 2     | 8.2e-05    | 2 (Ty1-RT),    
+             |   '--Ty3_gypsy                   | 2     | 8.2e-05    |                
+             |       |--non-chromovirus         | 1     | 4.1e-05    |                
+             |       |   '--OTA                 | 1     | 4.1e-05    |                
+             |       |       '--Athila          | 1     | 4.1e-05    | 1 (Ty3-INT),   
+             |       '--chromovirus             | 1     | 4.1e-05    |                
+             |           '--CRM                 | 1     | 4.1e-05    | 1 (Ty3-RT),    
+             '--LINE                            | 1     | 4.1e-05    | 1 (LINE-ENDO), "	NA	"51,50"
+16	24106	"LTR"	"                                                | nhits | proportion |                       features
+-----------------------------------------------------------------------------------------------------
+All                                             | 174   | 0.0072     |                               
+ |--organelle                                   | 4     | 0.00017    |                               
+ |   |--plastid                                 | 2     | 8.3e-05    |                               
+ |   '--mitochondria                            | 2     | 8.3e-05    |                               
+ '--repeat                                      | 170   | 0.0071     |                               
+     '--mobile_element                          | 170   | 0.0071     |                               
+         '--Class_I                             | 170   | 0.0071     |                               
+             |--LTR                             | 169   | 0.007      | LTR/PBS                       
+             |   '--Ty3_gypsy                   | 169   | 0.007      |                               
+             |       '--chromovirus             | 169   | 0.007      |                               
+             |           |--CRM                 | 9     | 0.00037    | 9 (Ty3-GAG),                  
+             |           |--Tekay               | 159   | 0.0066     | 104 (Ty3-GAG), 55 (Ty3-PROT), 
+             |           '--Reina               | 1     | 4.2e-05    | 1 (Ty3-GAG),                  
+             '--pararetrovirus                  | 1     | 4.2e-05    | 1 (PARA-RT),                  "	NA	"76,46"
+17	23130	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 2     | 8.6e-05    |              
+ |--organelle                                   | 1     | 4.3e-05    |              
+ |   '--plastid                                 | 1     | 4.3e-05    |              
+ '--repeat                                      | 1     | 4.3e-05    |              
+     '--mobile_element                          | 1     | 4.3e-05    |              
+         '--Class_I                             | 1     | 4.3e-05    |              
+             '--LTR                             | 1     | 4.3e-05    |              
+                 '--Ty3_gypsy                   | 1     | 4.3e-05    |              
+                     '--chromovirus             | 1     | 4.3e-05    |              
+                         '--Reina               | 1     | 4.3e-05    | 1 (Ty3-INT), "	NA	"6"
+18	21930	"NA"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 17    | 0.00077    |             
+ |--organelle                                   | 16    | 0.00073    |             
+ |   |--plastid                                 | 2     | 9.1e-05    |             
+ |   '--mitochondria                            | 14    | 0.00064    |             
+ '--repeat                                      | 1     | 4.6e-05    |             
+     '--mobile_element                          | 1     | 4.6e-05    |             
+         '--Class_I                             | 1     | 4.6e-05    |             
+             '--LTR                             | 1     | 4.6e-05    |             
+                 '--Ty1_copia                   | 1     | 4.6e-05    |             
+                     '--Angela                  | 1     | 4.6e-05    | 1 (Ty1-RH), "	NA	"72,57"
+19	21850	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 69    | 0.0032     |              
+ |--organelle                                   | 68    | 0.0031     |              
+ |   '--mitochondria                            | 68    | 0.0031     |              
+ '--repeat                                      | 1     | 4.6e-05    |              
+     '--mobile_element                          | 1     | 4.6e-05    |              
+         '--Class_I                             | 1     | 4.6e-05    |              
+             '--LTR                             | 1     | 4.6e-05    |              
+                 '--Ty3_gypsy                   | 1     | 4.6e-05    |              
+                     '--non-chromovirus         | 1     | 4.6e-05    |              
+                         '--OTA                 | 1     | 4.6e-05    |              
+                             '--Athila          | 1     | 4.6e-05    | 1 (Ty3-INT), "	NA	"9"
+20	21534	"LTR"	"                                                | nhits | proportion |                  features
+------------------------------------------------------------------------------------------------
+All                                             | 4     | 0.00019    |                          
+ '--repeat                                      | 4     | 0.00019    |                          
+     '--mobile_element                          | 4     | 0.00019    |                          
+         '--Class_I                             | 4     | 0.00019    |                          
+             '--LTR                             | 4     | 0.00019    | LTR/PBS                  
+                 '--Ty3_gypsy                   | 4     | 0.00019    |                          
+                     |--non-chromovirus         | 2     | 9.3e-05    |                          
+                     |   '--OTA                 | 2     | 9.3e-05    |                          
+                     |       '--Tat             | 2     | 9.3e-05    |                          
+                     |           '--Retand      | 2     | 9.3e-05    | 1 (Ty3-INT), 1 (Ty3-RT), 
+                     '--chromovirus             | 2     | 9.3e-05    |                          
+                         '--Tekay               | 2     | 9.3e-05    | 2 (Ty3-INT),             "	NA	"12"
+21	20963	"NA"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 68    | 0.0032     |                
+ '--repeat                                      | 68    | 0.0032     |                
+     '--mobile_element                          | 68    | 0.0032     |                
+         '--Class_I                             | 68    | 0.0032     |                
+             '--LTR                             | 68    | 0.0032     |                
+                 '--Ty1_copia                   | 68    | 0.0032     |                
+                     '--TAR                     | 68    | 0.0032     | 68 (Ty1-PROT), "	NA	"13"
+22	18156	"LTR"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 4     | 0.00022    |              
+ |--organelle                                   | 1     | 5.5e-05    |              
+ |   '--mitochondria                            | 1     | 5.5e-05    |              
+ '--repeat                                      | 3     | 0.00017    |              
+     '--mobile_element                          | 3     | 0.00017    |              
+         '--Class_I                             | 3     | 0.00017    |              
+             |--LTR                             | 2     | 0.00011    | LTR/PBS      
+             |   |--Ty1_copia                   | 1     | 5.5e-05    |              
+             |   |   '--Angela                  | 1     | 5.5e-05    | 1 (Ty1-RT),  
+             |   '--Ty3_gypsy                   | 1     | 5.5e-05    |              
+             |       '--non-chromovirus         | 1     | 5.5e-05    |              
+             |           '--OTA                 | 1     | 5.5e-05    |              
+             |               '--Tat             | 1     | 5.5e-05    |              
+             |                   '--Retand      | 1     | 5.5e-05    | 1 (Ty3-INT), 
+             '--LINE                            | 1     | 5.5e-05    | 1 (LINE-RT), "	NA	"20"
+23	16523	"Tekay"	"                                                | nhits | proportion |                                                                                     features
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 8054  | 0.49       |                                                                                             
+ |--organelle                                   | 1     | 6e-05      |                                                                                             
+ |   '--mitochondria                            | 1     | 6e-05      |                                                                                             
+ '--repeat                                      | 8053  | 0.49       |                                                                                             
+     '--mobile_element                          | 8053  | 0.49       |                                                                                             
+         '--Class_I                             | 8053  | 0.49       |                                                                                             
+             '--LTR                             | 8053  | 0.49       |                                                                                             
+                 '--Ty3_gypsy                   | 8053  | 0.49       |                                                                                             
+                     '--chromovirus             | 8053  | 0.49       |                                                                                             
+                         |--Chlamyvir           | 3     | 0.00018    | 3 (Ty3-RT),                                                                                 
+                         |--Tcn1                | 39    | 0.0024     | 39 (Ty3-RT),                                                                                
+                         |--CRM                 | 1     | 6e-05      | 1 (Ty3-RT),                                                                                 
+                         |--Galadriel           | 3     | 0.00018    | 3 (Ty3-RT),                                                                                 
+                         |--Tekay               | 8004  | 0.48       | 600 (Ty3-CHD), 759 (Ty3-GAG), 2656 (Ty3-INT), 480 (Ty3-PROT), 1389 (Ty3-RH), 2120 (Ty3-RT), 
+                         |--Reina               | 2     | 0.00012    | 2 (Ty3-RT),                                                                                 
+                         '--chromo-unclass      | 1     | 6e-05      | 1 (Ty3-RT),                                                                                 "	NA	"28"
+24	16391	"NA"	"                                                | nhits | proportion |                              features
+------------------------------------------------------------------------------------------------------------
+All                                             | 93    | 0.0057     |                                      
+ |--organelle                                   | 80    | 0.0049     |                                      
+ |   '--plastid                                 | 80    | 0.0049     |                                      
+ '--repeat                                      | 13    | 0.00079    |                                      
+     '--mobile_element                          | 13    | 0.00079    |                                      
+         '--Class_I                             | 13    | 0.00079    |                                      
+             '--LTR                             | 13    | 0.00079    |                                      
+                 '--Ty3_gypsy                   | 13    | 0.00079    |                                      
+                     '--chromovirus             | 13    | 0.00079    |                                      
+                         '--Tekay               | 13    | 0.00079    | 2 (Ty3-INT), 6 (Ty3-RH), 5 (Ty3-RT), "	NA	"29"
+25	16112	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 2     | 0.00012    |         
+ '--organelle                                   | 2     | 0.00012    |         
+     '--mitochondria                            | 2     | 0.00012    |         "	NA	"30"
+26	15680	"CRM"	"                                                | nhits | proportion |                                                                  features
+------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 1761  | 0.11       |                                                                          
+ '--repeat                                      | 1761  | 0.11       |                                                                          
+     '--mobile_element                          | 1761  | 0.11       |                                                                          
+         '--Class_I                             | 1761  | 0.11       |                                                                          
+             '--LTR                             | 1761  | 0.11       |                                                                          
+                 '--Ty3_gypsy                   | 1761  | 0.11       |                                                                          
+                     '--chromovirus             | 1761  | 0.11       |                                                                          
+                         |--Tcn1                | 2     | 0.00013    | 2 (Ty3-RT),                                                              
+                         |--CRM                 | 1753  | 0.11       | 256 (Ty3-CHDCR), 67 (Ty3-GAG), 1053 (Ty3-INT), 376 (Ty3-RH), 1 (Ty3-RT), 
+                         |--Galadriel           | 2     | 0.00013    | 2 (Ty3-GAG),                                                             
+                         |--Tekay               | 3     | 0.00019    | 3 (Ty3-RH),                                                              
+                         '--Reina               | 1     | 6.4e-05    | 1 (Ty3-RH),                                                              "	NA	"101,87"
+27	15542	"LTR"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 2     | 0.00013    |             
+ |--organelle                                   | 1     | 6.4e-05    |             
+ |   '--plastid                                 | 1     | 6.4e-05    |             
+ '--repeat                                      | 1     | 6.4e-05    |             
+     '--mobile_element                          | 1     | 6.4e-05    |             
+         '--Class_I                             | 1     | 6.4e-05    |             
+             '--LTR                             | 1     | 6.4e-05    | LTR/PBS     
+                 '--Ty3_gypsy                   | 1     | 6.4e-05    |             
+                     '--non-chromovirus         | 1     | 6.4e-05    |             
+                         '--OTA                 | 1     | 6.4e-05    |             
+                             '--Tat             | 1     | 6.4e-05    |             
+                                 '--Retand      | 1     | 6.4e-05    | 1 (Ty3-RT), "	NA	"122,80"
+28	15112	"Retand"	"                                                | nhits | proportion |                                                                      features
+----------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 6772  | 0.45       |                                                                              
+ '--repeat                                      | 6772  | 0.45       |                                                                              
+     '--mobile_element                          | 6772  | 0.45       |                                                                              
+         '--Class_I                             | 6772  | 0.45       |                                                                              
+             '--LTR                             | 6772  | 0.45       |                                                                              
+                 '--Ty3_gypsy                   | 6772  | 0.45       |                                                                              
+                     |--non-chromovirus         | 6726  | 0.44       |                                                                              
+                     |   '--OTA                 | 6726  | 0.44       |                                                                              
+                     |       |--Athila          | 3     | 2e-04      | 3 (Ty3-GAG),                                                                 
+                     |       '--Tat             | 6723  | 0.44       |                                                                              
+                     |           |--TatII       | 1     | 6.6e-05    | 1 (Ty3-aRH),                                                                 
+                     |           |--Ogre        | 51    | 0.0034     | 9 (Ty3-aRH), 1 (Ty3-GAG), 1 (Ty3-RH), 40 (Ty3-RT),                           
+                     |           '--Retand      | 6671  | 0.44       | 484 (Ty3-aRH), 1044 (Ty3-GAG), 1361 (Ty3-PROT), 769 (Ty3-RH), 3013 (Ty3-RT), 
+                     '--chromovirus             | 46    | 0.003      |                                                                              
+                         '--Tekay               | 46    | 0.003      | 46 (Ty3-RH),                                                                 "	NA	"35"
+29	14116	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 9     | 0.00064    |              
+ |--organelle                                   | 8     | 0.00057    |              
+ |   '--mitochondria                            | 8     | 0.00057    |              
+ '--repeat                                      | 1     | 7.1e-05    |              
+     '--mobile_element                          | 1     | 7.1e-05    |              
+         '--Class_I                             | 1     | 7.1e-05    |              
+             '--LTR                             | 1     | 7.1e-05    |              
+                 '--Ty1_copia                   | 1     | 7.1e-05    |              
+                     '--Ivana                   | 1     | 7.1e-05    | 1 (Ty1-INT), "	NA	"43"
+30	12786	"Retand"	"                                                | nhits | proportion |                                        features
+----------------------------------------------------------------------------------------------------------------------
+All                                             | 4719  | 0.37       |                                                
+ |--organelle                                   | 2     | 0.00016    |                                                
+ |   '--plastid                                 | 2     | 0.00016    |                                                
+ '--repeat                                      | 4717  | 0.37       |                                                
+     '--mobile_element                          | 4717  | 0.37       |                                                
+         '--Class_I                             | 4717  | 0.37       |                                                
+             '--LTR                             | 4717  | 0.37       |                                                
+                 '--Ty3_gypsy                   | 4717  | 0.37       |                                                
+                     '--non-chromovirus         | 4717  | 0.37       |                                                
+                         '--OTA                 | 4717  | 0.37       |                                                
+                             '--Tat             | 4717  | 0.37       |                                                
+                                 '--Retand      | 4717  | 0.37       | 1036 (Ty3-aRH), 2580 (Ty3-INT), 1101 (Ty3-RH), "	NA	"49"
+31	12218	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 8.2e-05    |         
+ '--organelle                                   | 1     | 8.2e-05    |         
+     '--plastid                                 | 1     | 8.2e-05    |         "	NA	"140,95"
+32	11780	"NA"	"                                                | nhits | proportion |         features
+---------------------------------------------------------------------------------------
+All                                             | 14    | 0.0012     |                 
+ |--organelle                                   | 13    | 0.0011     |                 
+ |   '--plastid                                 | 13    | 0.0011     |                 
+ '--repeat                                      | 1     | 8.5e-05    |                 
+     '--mobile_element                          | 1     | 8.5e-05    |                 
+         '--Class_II                            | 1     | 8.5e-05    |                 
+             '--Subclass_1                      | 1     | 8.5e-05    |                 
+                 '--TIR                         | 1     | 8.5e-05    |                 
+                     '--MuDR_Mutator            | 1     | 8.5e-05    | 1 (MuDR-TPase), "	NA	"52"
+33	11733	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 11733 | 1          |         
+ '--repeat                                      | 11733 | 1          |         
+     '--satellite                               | 11733 | 1          |         "	"53 - Putative satellites (high confidence)"	"53"
+34	11473	"Retand"	"                                                | nhits | proportion |                                                                     features
+---------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 5433  | 0.47       |                                                                             
+ |--organelle                                   | 1     | 8.7e-05    |                                                                             
+ |   '--mitochondria                            | 1     | 8.7e-05    |                                                                             
+ '--repeat                                      | 5432  | 0.47       |                                                                             
+     '--mobile_element                          | 5432  | 0.47       |                                                                             
+         '--Class_I                             | 5432  | 0.47       |                                                                             
+             '--LTR                             | 5432  | 0.47       |                                                                             
+                 |--Ty1_copia                   | 1     | 8.7e-05    |                                                                             
+                 |   '--Ivana                   | 1     | 8.7e-05    | 1 (Ty1-INT),                                                                
+                 '--Ty3_gypsy                   | 5431  | 0.47       |                                                                             
+                     |--non-chromovirus         | 5410  | 0.47       |                                                                             
+                     |   '--OTA                 | 5410  | 0.47       |                                                                             
+                     |       '--Tat             | 5410  | 0.47       |                                                                             
+                     |           |--TatII       | 3     | 0.00026    | 3 (Ty3-aRH),                                                                
+                     |           |--Ogre        | 82    | 0.0072     | 45 (Ty3-aRH), 7 (Ty3-INT), 1 (Ty3-RH), 29 (Ty3-RT),                         
+                     |           '--Retand      | 5325  | 0.46       | 738 (Ty3-aRH), 1899 (Ty3-INT), 404 (Ty3-PROT), 988 (Ty3-RH), 1296 (Ty3-RT), 
+                     '--chromovirus             | 21    | 0.0018     |                                                                             
+                         |--chromo-outgroup     | 1     | 8.7e-05    | 1 (Ty3-RH),                                                                 
+                         |--CRM                 | 6     | 0.00052    | 4 (Ty3-INT), 2 (Ty3-RH),                                                    
+                         |--Tekay               | 6     | 0.00052    | 3 (Ty3-INT), 3 (Ty3-RH),                                                    
+                         '--Reina               | 8     | 7e-04      | 5 (Ty3-RH), 3 (Ty3-RT),                                                     "	NA	"54"
+35	11196	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 79    | 0.0071     |         
+ '--organelle                                   | 79    | 0.0071     |         
+     |--plastid                                 | 63    | 0.0056     |         
+     '--mitochondria                            | 16    | 0.0014     |         "	NA	"59"
+36	11125	"45S_rDNA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 6041  | 0.54       |         
+ |--organelle                                   | 5     | 0.00045    |         
+ |   '--mitochondria                            | 5     | 0.00045    |         
+ '--repeat                                      | 6036  | 0.54       |         
+     '--rDNA                                    | 6036  | 0.54       |         
+         '--45S_rDNA                            | 6036  | 0.54       |         
+             |--18S_rDNA                        | 2362  | 0.21       |         
+             |--25S_rDNA                        | 3541  | 0.32       |         
+             '--5.8S_rDNA                       | 133   | 0.012      |         "	NA	"159,100"
+37	11019	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"62"
+38	10981	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 4     | 0.00036    |              
+ |--organelle                                   | 3     | 0.00027    |              
+ |   '--plastid                                 | 3     | 0.00027    |              
+ '--repeat                                      | 1     | 9.1e-05    |              
+     '--mobile_element                          | 1     | 9.1e-05    |              
+         '--Class_I                             | 1     | 9.1e-05    |              
+             '--LTR                             | 1     | 9.1e-05    |              
+                 '--Ty3_gypsy                   | 1     | 9.1e-05    |              
+                     '--non-chromovirus         | 1     | 9.1e-05    |              
+                         '--OTA                 | 1     | 9.1e-05    |              
+                             '--Tat             | 1     | 9.1e-05    |              
+                                 '--Ogre        | 1     | 9.1e-05    | 1 (Ty3-INT), "	NA	"64"
+39	10879	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 10879 | 1          |         
+ '--repeat                                      | 10879 | 1          |         
+     '--satellite                               | 10879 | 1          |         "	"67 - Putative satellites (high confidence)"	"67"
+40	9574	"NA"	"                                                | nhits | proportion |          features
+----------------------------------------------------------------------------------------
+All                                             | 84    | 0.0088     |                  
+ |--organelle                                   | 43    | 0.0045     |                  
+ |   '--mitochondria                            | 43    | 0.0045     |                  
+ '--repeat                                      | 41    | 0.0043     |                  
+     '--mobile_element                          | 41    | 0.0043     |                  
+         |--Class_I                             | 40    | 0.0042     |                  
+         |   '--LTR                             | 40    | 0.0042     |                  
+         |       '--Ty1_copia                   | 40    | 0.0042     |                  
+         |           '--TAR                     | 40    | 0.0042     | 40 (Ty1-INT),    
+         '--Class_II                            | 1     | 1e-04      |                  
+             '--Subclass_1                      | 1     | 1e-04      |                  
+                 '--TIR                         | 1     | 1e-04      |                  
+                     '--EnSpm_CACTA             | 1     | 1e-04      | 1 (CACTA-TPase), "	NA	"172,106"
+41	9318	"Retand"	"                                                | nhits | proportion |                                     features
+-------------------------------------------------------------------------------------------------------------------
+All                                             | 1951  | 0.21       |                                             
+ |--organelle                                   | 1     | 0.00011    |                                             
+ |   '--plastid                                 | 1     | 0.00011    |                                             
+ '--repeat                                      | 1950  | 0.21       |                                             
+     '--mobile_element                          | 1950  | 0.21       |                                             
+         '--Class_I                             | 1950  | 0.21       |                                             
+             '--LTR                             | 1950  | 0.21       |                                             
+                 '--Ty3_gypsy                   | 1950  | 0.21       |                                             
+                     |--non-chromovirus         | 1944  | 0.21       |                                             
+                     |   |--non-chromo-outgroup | 17    | 0.0018     | 17 (Ty3-RT),                                
+                     |   '--OTA                 | 1927  | 0.21       |                                             
+                     |       |--Athila          | 17    | 0.0018     | 3 (Ty3-GAG), 14 (Ty3-RT),                   
+                     |       '--Tat             | 1910  | 0.2        |                                             
+                     |           |--Ogre        | 27    | 0.0029     | 1 (Ty3-GAG), 26 (Ty3-RT),                   
+                     |           '--Retand      | 1883  | 0.2        | 855 (Ty3-GAG), 969 (Ty3-PROT), 59 (Ty3-RT), 
+                     '--chromovirus             | 6     | 0.00064    |                                             
+                         |--Tcn1                | 4     | 0.00043    | 4 (Ty3-RT),                                 
+                         '--Reina               | 2     | 0.00022    | 2 (Ty3-RT),                                 "	NA	"82"
+42	8676	"Tekay"	"                                                | nhits | proportion |                                                                 features
+-----------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 1701  | 0.2        |                                                                         
+ '--repeat                                      | 1701  | 0.2        |                                                                         
+     '--mobile_element                          | 1701  | 0.2        |                                                                         
+         '--Class_I                             | 1701  | 0.2        |                                                                         
+             |--LTR                             | 1700  | 0.2        |                                                                         
+             |   '--Ty3_gypsy                   | 1700  | 0.2        |                                                                         
+             |       |--non-chromovirus         | 8     | 0.00092    |                                                                         
+             |       |   '--Selgy               | 8     | 0.00092    | 8 (Ty3-RT),                                                             
+             |       '--chromovirus             | 1692  | 0.19       |                                                                         
+             |           |--Chlamyvir           | 21    | 0.0024     | 21 (Ty3-RT),                                                            
+             |           |--Tcn1                | 14    | 0.0016     | 14 (Ty3-RT),                                                            
+             |           |--CRM                 | 32    | 0.0037     | 4 (Ty3-RH), 28 (Ty3-RT),                                                
+             |           |--Galadriel           | 7     | 0.00081    | 7 (Ty3-RT),                                                             
+             |           |--Tekay               | 1589  | 0.18       | 181 (Ty3-CHD), 770 (Ty3-INT), 4 (Ty3-PROT), 318 (Ty3-RH), 316 (Ty3-RT), 
+             |           |--Reina               | 24    | 0.0028     | 24 (Ty3-RT),                                                            
+             |           '--chromo-unclass      | 5     | 0.00058    | 3 (Ty3-INT), 2 (Ty3-RT),                                                
+             '--LINE                            | 1     | 0.00012    | 1 (LINE-ENDO),                                                          "	NA	"163,126"
+43	8003	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 2     | 0.00025    |              
+ '--repeat                                      | 2     | 0.00025    |              
+     '--mobile_element                          | 2     | 0.00025    |              
+         '--Class_I                             | 2     | 0.00025    |              
+             '--LINE                            | 2     | 0.00025    | 2 (LINE-RH), "	NA	"91"
+44	7744	"Tekay"	"                                                | nhits | proportion |                                                  features
+--------------------------------------------------------------------------------------------------------------------------------
+All                                             | 864   | 0.11       |                                                          
+ '--repeat                                      | 864   | 0.11       |                                                          
+     '--mobile_element                          | 864   | 0.11       |                                                          
+         '--Class_I                             | 864   | 0.11       |                                                          
+             '--LTR                             | 864   | 0.11       |                                                          
+                 '--Ty3_gypsy                   | 864   | 0.11       |                                                          
+                     '--chromovirus             | 864   | 0.11       |                                                          
+                         |--Tekay               | 858   | 0.11       | 117 (Ty3-CHD), 529 (Ty3-INT), 193 (Ty3-RH), 19 (Ty3-RT), 
+                         |--Reina               | 1     | 0.00013    | 1 (Ty3-INT),                                             
+                         '--chromo-unclass      | 5     | 0.00065    | 5 (Ty3-INT),                                             "	NA	"92"
+45	7443	"LTR"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 3     | 4e-04      |              
+ '--repeat                                      | 3     | 4e-04      |              
+     '--mobile_element                          | 3     | 4e-04      |              
+         '--Class_I                             | 3     | 4e-04      |              
+             '--LTR                             | 3     | 4e-04      | LTR/PBS      
+                 |--Ty1_copia                   | 1     | 0.00013    |              
+                 |   '--Angela                  | 1     | 0.00013    | 1 (Ty1-INT), 
+                 '--Ty3_gypsy                   | 2     | 0.00027    |              
+                     '--non-chromovirus         | 2     | 0.00027    |              
+                         '--OTA                 | 2     | 0.00027    |              
+                             |--Athila          | 1     | 0.00013    | 1 (Ty3-INT), 
+                             '--Tat             | 1     | 0.00013    |              
+                                 '--Retand      | 1     | 0.00013    | 1 (Ty3-RT),  "	NA	"98"
+46	7372	"TAR"	"                                                | nhits | proportion |                                                                   features
+-------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 2267  | 0.31       |                                                                           
+ '--repeat                                      | 2267  | 0.31       |                                                                           
+     |--rDNA                                    | 1     | 0.00014    |                                                                           
+     |   '--5S_rDNA                             | 1     | 0.00014    |                                                                           
+     '--mobile_element                          | 2266  | 0.31       |                                                                           
+         '--Class_I                             | 2266  | 0.31       |                                                                           
+             '--LTR                             | 2266  | 0.31       |                                                                           
+                 '--Ty1_copia                   | 2266  | 0.31       |                                                                           
+                     |--Ale                     | 1     | 0.00014    | 1 (Ty1-RT),                                                               
+                     |--Ikeros                  | 2     | 0.00027    | 2 (Ty1-RT),                                                               
+                     |--Ivana                   | 14    | 0.0019     | 14 (Ty1-RH),                                                              
+                     '--TAR                     | 2249  | 0.3        | 255 (Ty1-GAG), 625 (Ty1-INT), 156 (Ty1-PROT), 410 (Ty1-RH), 803 (Ty1-RT), "	NA	"99"
+47	6998	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.00014    |         
+ '--organelle                                   | 1     | 0.00014    |         
+     '--plastid                                 | 1     | 0.00014    |         "	NA	"105"
+48	6992	"Retand"	"                                                | nhits | proportion |                                      features
+--------------------------------------------------------------------------------------------------------------------
+All                                             | 2108  | 0.3        |                                              
+ '--repeat                                      | 2108  | 0.3        |                                              
+     '--mobile_element                          | 2108  | 0.3        |                                              
+         '--Class_I                             | 2108  | 0.3        |                                              
+             '--LTR                             | 2108  | 0.3        |                                              
+                 '--Ty3_gypsy                   | 2108  | 0.3        |                                              
+                     '--non-chromovirus         | 2108  | 0.3        |                                              
+                         '--OTA                 | 2108  | 0.3        |                                              
+                             '--Tat             | 2108  | 0.3        |                                              
+                                 |--TatII       | 2     | 0.00029    | 2 (Ty3-aRH),                                 
+                                 |--Ogre        | 1     | 0.00014    | 1 (Ty3-aRH),                                 
+                                 '--Retand      | 2105  | 0.3        | 446 (Ty3-aRH), 1301 (Ty3-INT), 358 (Ty3-RH), "	NA	"107"
+49	6858	"EnSpm_CACTA"	"                                                | nhits | proportion |             features
+-------------------------------------------------------------------------------------------
+All                                             | 1409  | 0.2        |                     
+ '--repeat                                      | 1409  | 0.2        |                     
+     '--mobile_element                          | 1409  | 0.2        |                     
+         '--Class_II                            | 1409  | 0.2        |                     
+             '--Subclass_1                      | 1409  | 0.2        |                     
+                 '--TIR                         | 1409  | 0.2        |                     
+                     '--EnSpm_CACTA             | 1409  | 0.2        | 1409 (CACTA-TPase), "	NA	"109"
+50	6825	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"110"
+51	6667	"Retand"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 494   | 0.074      |                
+ '--repeat                                      | 494   | 0.074      |                
+     '--mobile_element                          | 494   | 0.074      |                
+         '--Class_I                             | 494   | 0.074      |                
+             '--LTR                             | 494   | 0.074      | LTR/PBS        
+                 '--Ty3_gypsy                   | 494   | 0.074      |                
+                     '--non-chromovirus         | 494   | 0.074      |                
+                         '--OTA                 | 494   | 0.074      |                
+                             |--Athila          | 24    | 0.0036     | 24 (Ty3-GAG),  
+                             '--Tat             | 470   | 0.07       |                
+                                 |--Ogre        | 1     | 0.00015    | 1 (Ty3-GAG),   
+                                 '--Retand      | 469   | 0.07       | 469 (Ty3-GAG), "	NA	"112"
+52	6594	"satellite"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 6595  | 1          |             
+ '--repeat                                      | 6595  | 1          |             
+     |--satellite                               | 6594  | 1          |             
+     '--mobile_element                          | 1     | 0.00015    |             
+         '--Class_I                             | 1     | 0.00015    |             
+             '--LTR                             | 1     | 0.00015    |             
+                 '--Ty3_gypsy                   | 1     | 0.00015    |             
+                     '--non-chromovirus         | 1     | 0.00015    |             
+                         '--OTA                 | 1     | 0.00015    |             
+                             '--Tat             | 1     | 0.00015    |             
+                                 '--Retand      | 1     | 0.00015    | 1 (Ty3-RT), "	"113 - Putative satellites (high confidence)"	"113"
+53	6304	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"114"
+54	6282	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"115"
+55	6236	"EnSpm_CACTA"	"                                                | nhits | proportion |             features
+-------------------------------------------------------------------------------------------
+All                                             | 1232  | 0.2        |                     
+ '--repeat                                      | 1232  | 0.2        |                     
+     '--mobile_element                          | 1232  | 0.2        |                     
+         '--Class_II                            | 1232  | 0.2        |                     
+             '--Subclass_1                      | 1232  | 0.2        |                     
+                 '--TIR                         | 1232  | 0.2        |                     
+                     '--EnSpm_CACTA             | 1232  | 0.2        | 1232 (CACTA-TPase), "	NA	"116"
+56	6078	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"118"
+57	5914	"SIRE"	"                                                | nhits | proportion |                                                                 features
+-----------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 1917  | 0.32       |                                                                         
+ '--repeat                                      | 1917  | 0.32       |                                                                         
+     '--mobile_element                          | 1917  | 0.32       |                                                                         
+         '--Class_I                             | 1917  | 0.32       |                                                                         
+             '--LTR                             | 1917  | 0.32       |                                                                         
+                 '--Ty1_copia                   | 1917  | 0.32       |                                                                         
+                     |--Ale                     | 52    | 0.0088     | 17 (Ty1-INT), 22 (Ty1-PROT), 12 (Ty1-RH), 1 (Ty1-RT),                   
+                     |--Alesia                  | 2     | 0.00034    | 1 (Ty1-PROT), 1 (Ty1-RH),                                               
+                     |--Angela                  | 2     | 0.00034    | 2 (Ty1-INT),                                                            
+                     |--Bianca                  | 1     | 0.00017    | 1 (Ty1-RT),                                                             
+                     |--Ikeros                  | 1     | 0.00017    | 1 (Ty1-INT),                                                            
+                     |--Ivana                   | 112   | 0.019      | 1 (Ty1-INT), 30 (Ty1-PROT), 60 (Ty1-RH), 21 (Ty1-RT),                   
+                     |--SIRE                    | 1745  | 0.3        | 15 (Ty1-GAG), 511 (Ty1-INT), 66 (Ty1-PROT), 308 (Ty1-RH), 845 (Ty1-RT), 
+                     |--TAR                     | 1     | 0.00017    | 1 (Ty1-INT),                                                            
+                     '--Tork                    | 1     | 0.00017    | 1 (Ty1-PROT),                                                           "	NA	"120"
+58	5717	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.00018    |         
+ '--organelle                                   | 1     | 0.00018    |         
+     '--plastid                                 | 1     | 0.00018    |         "	NA	"124"
+59	5447	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 14    | 0.0026     |         
+ '--repeat                                      | 14    | 0.0026     |         
+     '--rDNA                                    | 14    | 0.0026     |         
+         '--5S_rDNA                             | 14    | 0.0026     |         "	NA	"128"
+60	5363	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"130"
+61	5307	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"209,146"
+62	5159	"Retand"	"                                                | nhits | proportion |         features
+---------------------------------------------------------------------------------------
+All                                             | 1474  | 0.29       |                 
+ '--repeat                                      | 1474  | 0.29       |                 
+     '--mobile_element                          | 1474  | 0.29       |                 
+         '--Class_I                             | 1474  | 0.29       |                 
+             '--LTR                             | 1474  | 0.29       |                 
+                 '--Ty3_gypsy                   | 1474  | 0.29       |                 
+                     '--non-chromovirus         | 1474  | 0.29       |                 
+                         '--OTA                 | 1474  | 0.29       |                 
+                             '--Tat             | 1474  | 0.29       |                 
+                                 |--Ogre        | 1     | 0.00019    | 1 (Ty3-INT),    
+                                 '--Retand      | 1473  | 0.29       | 1473 (Ty3-INT), "	NA	"134"
+63	4975	"plastid"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 4974  | 1          |         
+ '--organelle                                   | 4974  | 1          |         
+     |--plastid                                 | 4925  | 0.99       |         
+     '--mitochondria                            | 49    | 0.0098     |         "	NA	"135"
+64	4784	"NA"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 2     | 0.00042    |                
+ '--repeat                                      | 2     | 0.00042    |                
+     '--mobile_element                          | 2     | 0.00042    |                
+         '--Class_I                             | 2     | 0.00042    |                
+             '--LINE                            | 2     | 0.00042    | 2 (LINE-ENDO), "	NA	"138"
+65	4728	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"139"
+66	4652	"satellite"	"                                                | nhits | proportion |            features
+------------------------------------------------------------------------------------------
+All                                             | 4653  | 1          |                    
+ '--repeat                                      | 4653  | 1          |                    
+     |--satellite                               | 4652  | 1          |                    
+     '--mobile_element                          | 1     | 0.00022    |                    
+         '--Class_II                            | 1     | 0.00022    |                    
+             '--Subclass_2                      | 1     | 0.00022    |                    
+                 '--Helitron                    | 1     | 0.00022    | 1 (Helitron-HEL2), "	"141 - Putative satellites (high confidence)"	"141"
+67	4642	"Retand"	"                                                | nhits | proportion |                                                  features
+--------------------------------------------------------------------------------------------------------------------------------
+All                                             | 1622  | 0.35       |                                                          
+ |--organelle                                   | 1     | 0.00022    |                                                          
+ |   '--plastid                                 | 1     | 0.00022    |                                                          
+ '--repeat                                      | 1621  | 0.35       |                                                          
+     '--mobile_element                          | 1621  | 0.35       |                                                          
+         '--Class_I                             | 1621  | 0.35       |                                                          
+             '--LTR                             | 1621  | 0.35       |                                                          
+                 '--Ty3_gypsy                   | 1621  | 0.35       |                                                          
+                     |--non-chromovirus         | 1616  | 0.35       |                                                          
+                     |   |--Selgy               | 2     | 0.00043    | 2 (Ty3-RH),                                              
+                     |   '--OTA                 | 1614  | 0.35       |                                                          
+                     |       '--Tat             | 1614  | 0.35       |                                                          
+                     |           |--Ogre        | 4     | 0.00086    | 1 (Ty3-aRH), 2 (Ty3-RH), 1 (Ty3-RT),                     
+                     |           '--Retand      | 1610  | 0.35       | 359 (Ty3-aRH), 791 (Ty3-INT), 449 (Ty3-RH), 11 (Ty3-RT), 
+                     '--chromovirus             | 5     | 0.0011     |                                                          
+                         '--Tekay               | 5     | 0.0011     | 5 (Ty3-RH),                                              "	NA	"142"
+68	4570	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.00022    |         
+ '--organelle                                   | 1     | 0.00022    |         
+     '--plastid                                 | 1     | 0.00022    |         "	NA	"143"
+69	4351	"LTR"	"                                                | nhits | proportion |       features
+-------------------------------------------------------------------------------------
+All                                             | 1     | 0.00023    |               
+ '--repeat                                      | 1     | 0.00023    |               
+     '--mobile_element                          | 1     | 0.00023    |               
+         '--Class_I                             | 1     | 0.00023    |               
+             '--LTR                             | 1     | 0.00023    | LTR/PBS       
+                 '--Ty3_gypsy                   | 1     | 0.00023    |               
+                     '--non-chromovirus         | 1     | 0.00023    |               
+                         '--OTA                 | 1     | 0.00023    |               
+                             '--Tat             | 1     | 0.00023    |               
+                                 '--Retand      | 1     | 0.00023    | 1 (Ty3-PROT), "	NA	"145"
+70	4048	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"151"
+71	4018	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 12    | 0.003      |         
+ '--organelle                                   | 12    | 0.003      |         
+     '--mitochondria                            | 12    | 0.003      |         "	NA	"153"
+72	4013	"plastid"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 4007  | 1          |         
+ '--organelle                                   | 4007  | 1          |         
+     |--plastid                                 | 3995  | 1          |         
+     '--mitochondria                            | 12    | 0.003      |         "	NA	"154"
+73	3974	"Ogre"	"                                                | nhits | proportion |                                                                                features
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+All                                             | 805   | 0.2        |                                                                                        
+ |--organelle                                   | 1     | 0.00025    |                                                                                        
+ |   '--mitochondria                            | 1     | 0.00025    |                                                                                        
+ '--repeat                                      | 804   | 0.2        |                                                                                        
+     '--mobile_element                          | 804   | 0.2        |                                                                                        
+         '--Class_I                             | 804   | 0.2        |                                                                                        
+             '--LTR                             | 804   | 0.2        | LTR/PBS                                                                                
+                 '--Ty3_gypsy                   | 804   | 0.2        |                                                                                        
+                     '--non-chromovirus         | 804   | 0.2        |                                                                                        
+                         '--OTA                 | 804   | 0.2        |                                                                                        
+                             '--Tat             | 804   | 0.2        |                                                                                        
+                                 |--Ogre        | 802   | 0.2        | 87 (Ty3-aRH), 126 (Ty3-GAG), 240 (Ty3-INT), 87 (Ty3-PROT), 113 (Ty3-RH), 149 (Ty3-RT), 
+                                 '--Retand      | 2     | 5e-04      | 2 (Ty3-RT),                                                                            "	NA	"155"
+74	3972	"EnSpm_CACTA"	"                                                | nhits | proportion |            features
+------------------------------------------------------------------------------------------
+All                                             | 718   | 0.18       |                    
+ '--repeat                                      | 718   | 0.18       |                    
+     '--mobile_element                          | 718   | 0.18       |                    
+         '--Class_II                            | 718   | 0.18       |                    
+             '--Subclass_1                      | 718   | 0.18       |                    
+                 '--TIR                         | 718   | 0.18       |                    
+                     '--EnSpm_CACTA             | 718   | 0.18       | 718 (CACTA-TPase), "	NA	"156"
+75	3835	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 1     | 0.00026    |              
+ '--repeat                                      | 1     | 0.00026    |              
+     '--mobile_element                          | 1     | 0.00026    |              
+         '--Class_I                             | 1     | 0.00026    |              
+             '--LTR                             | 1     | 0.00026    |              
+                 '--Ty3_gypsy                   | 1     | 0.00026    |              
+                     '--chromovirus             | 1     | 0.00026    |              
+                         '--Tekay               | 1     | 0.00026    | 1 (Ty3-INT), "	NA	"157"
+76	3476	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.00029    |         
+ '--organelle                                   | 1     | 0.00029    |         
+     '--mitochondria                            | 1     | 0.00029    |         "	NA	"160"
+77	3405	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"161"
+78	3049	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"164"
+79	2856	"satellite"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 2857  | 1          |              
+ '--repeat                                      | 2857  | 1          |              
+     |--satellite                               | 2856  | 1          |              
+     '--mobile_element                          | 1     | 0.00035    |              
+         '--Class_I                             | 1     | 0.00035    |              
+             '--LTR                             | 1     | 0.00035    |              
+                 '--Ty1_copia                   | 1     | 0.00035    |              
+                     '--Angela                  | 1     | 0.00035    | 1 (Ty1-INT), "	"166 - Putative satellites (low confidence)"	"166"
+80	2714	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"168"
+81	2702	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 2702  | 1          |         
+ '--repeat                                      | 2702  | 1          |         
+     '--satellite                               | 2702  | 1          |         "	"169 - Putative satellites (low confidence)"	"169"
+82	2677	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 2677  | 1          |         
+ '--repeat                                      | 2677  | 1          |         
+     '--satellite                               | 2677  | 1          |         "	"170 - Putative satellites (high confidence)"	"170"
+83	2649	"NA"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 2     | 0.00076    |                
+ |--organelle                                   | 1     | 0.00038    |                
+ |   '--mitochondria                            | 1     | 0.00038    |                
+ '--repeat                                      | 1     | 0.00038    |                
+     '--mobile_element                          | 1     | 0.00038    |                
+         '--Class_II                            | 1     | 0.00038    |                
+             '--Subclass_1                      | 1     | 0.00038    |                
+                 '--TIR                         | 1     | 0.00038    |                
+                     '--hAT                     | 1     | 0.00038    | 1 (hAT-TPase), "	NA	"171"
+84	2639	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"324,173"
+85	2462	"Tekay"	"                                                | nhits | proportion |                      features
+----------------------------------------------------------------------------------------------------
+All                                             | 182   | 0.074      |                              
+ |--organelle                                   | 28    | 0.011      |                              
+ |   '--plastid                                 | 28    | 0.011      |                              
+ '--repeat                                      | 154   | 0.063      |                              
+     '--mobile_element                          | 154   | 0.063      |                              
+         '--Class_I                             | 154   | 0.063      |                              
+             '--LTR                             | 154   | 0.063      |                              
+                 '--Ty3_gypsy                   | 154   | 0.063      |                              
+                     '--chromovirus             | 154   | 0.063      |                              
+                         '--Tekay               | 154   | 0.063      | 127 (Ty3-CHD), 27 (Ty3-INT), "	NA	"174"
+86	2456	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"175"
+87	2456	"EnSpm_CACTA"	"                                                | nhits | proportion |            features
+------------------------------------------------------------------------------------------
+All                                             | 422   | 0.17       |                    
+ '--repeat                                      | 422   | 0.17       |                    
+     '--mobile_element                          | 422   | 0.17       |                    
+         '--Class_II                            | 422   | 0.17       |                    
+             '--Subclass_1                      | 422   | 0.17       |                    
+                 '--TIR                         | 422   | 0.17       |                    
+                     '--EnSpm_CACTA             | 422   | 0.17       | 422 (CACTA-TPase), "	NA	"176"
+88	2444	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"177"
+89	2442	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"178"
+90	2349	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"180"
+91	2259	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"181"
+92	2164	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"183"
+93	1933	"Tekay"	"                                                | nhits | proportion |                      features
+----------------------------------------------------------------------------------------------------
+All                                             | 302   | 0.16       |                              
+ '--repeat                                      | 302   | 0.16       |                              
+     '--mobile_element                          | 302   | 0.16       |                              
+         '--Class_I                             | 302   | 0.16       |                              
+             '--LTR                             | 302   | 0.16       |                              
+                 '--Ty3_gypsy                   | 302   | 0.16       |                              
+                     '--chromovirus             | 302   | 0.16       |                              
+                         '--Tekay               | 302   | 0.16       | 60 (Ty3-CHD), 242 (Ty3-INT), "	NA	"184"
+94	1873	"plastid"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1872  | 1          |         
+ '--organelle                                   | 1872  | 1          |         
+     |--plastid                                 | 1868  | 1          |         
+     '--mitochondria                            | 4     | 0.0021     |         "	NA	"185"
+95	1856	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1856  | 1          |         
+ '--repeat                                      | 1856  | 1          |         
+     '--satellite                               | 1856  | 1          |         "	"186 - Putative satellites (low confidence)"	"186"
+96	1847	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 63    | 0.034      |              
+ '--repeat                                      | 63    | 0.034      |              
+     |--rDNA                                    | 61    | 0.033      |              
+     |   '--5S_rDNA                             | 61    | 0.033      |              
+     '--mobile_element                          | 2     | 0.0011     |              
+         '--Class_I                             | 2     | 0.0011     |              
+             '--LINE                            | 2     | 0.0011     | 2 (LINE-RT), "	NA	"187"
+97	1844	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.00054    |         
+ '--organelle                                   | 1     | 0.00054    |         
+     '--plastid                                 | 1     | 0.00054    |         "	NA	"188"
+98	1707	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"189"
+99	1655	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"191"
+100	1608	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 1     | 0.00062    |              
+ '--repeat                                      | 1     | 0.00062    |              
+     '--mobile_element                          | 1     | 0.00062    |              
+         '--Class_I                             | 1     | 0.00062    |              
+             '--LTR                             | 1     | 0.00062    |              
+                 '--Ty1_copia                   | 1     | 0.00062    |              
+                     '--Ale                     | 1     | 0.00062    | 1 (Ty1-INT), "	NA	"192"
+101	1599	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 1     | 0.00062    |              
+ '--repeat                                      | 1     | 0.00062    |              
+     '--mobile_element                          | 1     | 0.00062    |              
+         '--Class_I                             | 1     | 0.00062    |              
+             '--LTR                             | 1     | 0.00062    |              
+                 '--Ty3_gypsy                   | 1     | 0.00062    |              
+                     '--non-chromovirus         | 1     | 0.00062    |              
+                         '--OTA                 | 1     | 0.00062    |              
+                             '--Athila          | 1     | 0.00062    | 1 (Ty3-GAG), "	NA	"193"
+102	1570	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"194"
+103	1472	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1472  | 1          |         
+ '--repeat                                      | 1472  | 1          |         
+     '--satellite                               | 1472  | 1          |         "	"195 - Putative satellites (high confidence)"	"195"
+104	1450	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"196"
+105	1400	"Angela"	"                                                | nhits | proportion |       features
+-------------------------------------------------------------------------------------
+All                                             | 139   | 0.099      |               
+ '--repeat                                      | 139   | 0.099      |               
+     '--mobile_element                          | 139   | 0.099      |               
+         '--Class_I                             | 139   | 0.099      |               
+             '--LTR                             | 139   | 0.099      |               
+                 '--Ty1_copia                   | 139   | 0.099      |               
+                     |--Ale                     | 1     | 0.00071    | 1 (Ty1-RT),   
+                     '--Angela                  | 138   | 0.099      | 138 (Ty1-RH), "	NA	"197"
+106	1394	"Angela"	"                                                | nhits | proportion |                                       features
+---------------------------------------------------------------------------------------------------------------------
+All                                             | 543   | 0.39       |                                               
+ '--repeat                                      | 543   | 0.39       |                                               
+     '--mobile_element                          | 543   | 0.39       |                                               
+         '--Class_I                             | 543   | 0.39       |                                               
+             '--LTR                             | 543   | 0.39       |                                               
+                 '--Ty1_copia                   | 543   | 0.39       |                                               
+                     |--Ale                     | 1     | 0.00072    | 1 (Ty1-INT),                                  
+                     '--Angela                  | 542   | 0.39       | 139 (Ty1-GAG), 220 (Ty1-INT), 183 (Ty1-PROT), "	NA	"198"
+107	1281	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 15    | 0.012      |         
+ '--organelle                                   | 15    | 0.012      |         
+     '--plastid                                 | 15    | 0.012      |         "	NA	"199"
+108	1241	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"200"
+109	1234	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"201"
+110	1200	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"203"
+111	1176	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"204"
+112	1168	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"205"
+113	1129	"NA"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 1     | 0.00089    |             
+ '--repeat                                      | 1     | 0.00089    |             
+     '--mobile_element                          | 1     | 0.00089    |             
+         '--Class_I                             | 1     | 0.00089    |             
+             '--LTR                             | 1     | 0.00089    |             
+                 '--Ty1_copia                   | 1     | 0.00089    |             
+                     '--Ale                     | 1     | 0.00089    | 1 (Ty1-RT), "	NA	"206"
+114	1090	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"207"
+115	1075	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"208"
+116	983	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.001      |         
+ '--organelle                                   | 1     | 0.001      |         
+     '--plastid                                 | 1     | 0.001      |         "	NA	"210"
+117	925	"5S_rDNA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 312   | 0.34       |         
+ '--repeat                                      | 312   | 0.34       |         
+     '--rDNA                                    | 312   | 0.34       |         
+         '--5S_rDNA                             | 312   | 0.34       |         "	NA	"211"
+118	898	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 898   | 1          |         
+ '--repeat                                      | 898   | 1          |         
+     '--satellite                               | 898   | 1          |         "	"212 - Putative satellites (high confidence)"	"212"
+119	897	"LINE"	"                                                | nhits | proportion |                         features
+-------------------------------------------------------------------------------------------------------
+All                                             | 340   | 0.38       |                                 
+ '--repeat                                      | 340   | 0.38       |                                 
+     '--mobile_element                          | 340   | 0.38       |                                 
+         '--Class_I                             | 340   | 0.38       |                                 
+             '--LINE                            | 340   | 0.38       | 113 (LINE-ENDO), 227 (LINE-RT), "	NA	"213"
+120	869	"PIF_Harbinger"	"                                                | nhits | proportion |                features
+----------------------------------------------------------------------------------------------
+All                                             | 280   | 0.32       |                        
+ '--repeat                                      | 280   | 0.32       |                        
+     '--mobile_element                          | 280   | 0.32       |                        
+         '--Class_II                            | 280   | 0.32       |                        
+             '--Subclass_1                      | 280   | 0.32       |                        
+                 '--TIR                         | 280   | 0.32       |                        
+                     '--PIF_Harbinger           | 280   | 0.32       | 280 (Harbinger-TPase), "	NA	"214"
+121	858	"NA"	"                                                | nhits | proportion |      features
+------------------------------------------------------------------------------------
+All                                             | 9     | 0.01       |              
+ '--repeat                                      | 9     | 0.01       |              
+     '--mobile_element                          | 9     | 0.01       |              
+         '--Class_I                             | 9     | 0.01       |              
+             '--LTR                             | 9     | 0.01       |              
+                 '--Ty3_gypsy                   | 9     | 0.01       |              
+                     '--chromovirus             | 9     | 0.01       |              
+                         '--Tekay               | 9     | 0.01       | 9 (Ty3-CHD), "	NA	"215"
+122	841	"Tekay"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 197   | 0.23       |                
+ '--repeat                                      | 197   | 0.23       |                
+     '--mobile_element                          | 197   | 0.23       |                
+         '--Class_I                             | 197   | 0.23       |                
+             '--LTR                             | 197   | 0.23       |                
+                 '--Ty3_gypsy                   | 197   | 0.23       |                
+                     '--chromovirus             | 197   | 0.23       |                
+                         '--Tekay               | 197   | 0.23       | 197 (Ty3-GAG), "	NA	"216"
+123	788	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"217"
+124	776	"NA"	"                                                | nhits | proportion |       features
+-------------------------------------------------------------------------------------
+All                                             | 3     | 0.0039     |               
+ '--repeat                                      | 3     | 0.0039     |               
+     '--mobile_element                          | 3     | 0.0039     |               
+         '--Class_I                             | 3     | 0.0039     |               
+             '--LTR                             | 3     | 0.0039     |               
+                 |--Ty1_copia                   | 1     | 0.0013     |               
+                 |   '--Angela                  | 1     | 0.0013     | 1 (Ty1-PROT), 
+                 '--Ty3_gypsy                   | 2     | 0.0026     |               
+                     '--chromovirus             | 2     | 0.0026     |               
+                         '--CRM                 | 2     | 0.0026     | 2 (Ty3-INT),  "	NA	"218"
+125	764	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"219"
+126	754	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"220"
+127	745	"satellite"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 746   | 1          |             
+ '--repeat                                      | 746   | 1          |             
+     |--satellite                               | 745   | 1          |             
+     '--mobile_element                          | 1     | 0.0013     |             
+         '--Class_I                             | 1     | 0.0013     |             
+             '--LTR                             | 1     | 0.0013     |             
+                 '--Ty3_gypsy                   | 1     | 0.0013     |             
+                     '--non-chromovirus         | 1     | 0.0013     |             
+                         '--OTA                 | 1     | 0.0013     |             
+                             '--Tat             | 1     | 0.0013     |             
+                                 '--Retand      | 1     | 0.0013     | 1 (Ty3-RT), "	"221 - Putative satellites (high confidence)"	"221"
+128	739	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"266,233"
+129	702	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"222"
+130	701	"NA"	"                                                | nhits | proportion |     features
+-----------------------------------------------------------------------------------
+All                                             | 6     | 0.0086     |             
+ '--repeat                                      | 6     | 0.0086     |             
+     '--mobile_element                          | 6     | 0.0086     |             
+         '--Class_I                             | 6     | 0.0086     |             
+             '--LTR                             | 6     | 0.0086     |             
+                 '--Ty1_copia                   | 6     | 0.0086     |             
+                     '--Ivana                   | 6     | 0.0086     | 6 (Ty1-RT), "	NA	"223"
+131	682	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"224"
+132	681	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 681   | 1          |         
+ '--repeat                                      | 681   | 1          |         
+     '--satellite                               | 681   | 1          |         "	"225 - Putative satellites (low confidence)"	"225"
+133	673	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"226"
+134	632	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"227"
+135	617	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 617   | 1          |         
+ '--repeat                                      | 617   | 1          |         
+     '--satellite                               | 617   | 1          |         "	"228 - Putative satellites (high confidence)"	"228"
+136	580	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"229"
+137	563	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 563   | 1          |         
+ '--repeat                                      | 563   | 1          |         
+     '--satellite                               | 563   | 1          |         "	"230 - Putative satellites (high confidence)"	"230"
+138	535	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"231"
+139	504	"Tork"	"                                                | nhits | proportion |                                                 features
+-------------------------------------------------------------------------------------------------------------------------------
+All                                             | 285   | 0.56       |                                                         
+ '--repeat                                      | 285   | 0.56       |                                                         
+     '--mobile_element                          | 285   | 0.56       |                                                         
+         '--Class_I                             | 285   | 0.56       |                                                         
+             '--LTR                             | 285   | 0.56       |                                                         
+                 '--Ty1_copia                   | 285   | 0.56       |                                                         
+                     '--Tork                    | 285   | 0.56       | 92 (Ty1-INT), 13 (Ty1-PROT), 35 (Ty1-RH), 145 (Ty1-RT), "	NA	"234"
+140	488	"satellite"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 488   | 1          |         
+ '--repeat                                      | 488   | 1          |         
+     '--satellite                               | 488   | 1          |         "	"235 - Putative satellites (high confidence)"	"235"
+141	451	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"236"
+142	449	"SIRE"	"                                                | nhits | proportion |                                    features
+------------------------------------------------------------------------------------------------------------------
+All                                             | 219   | 0.49       |                                            
+ '--repeat                                      | 219   | 0.49       |                                            
+     '--mobile_element                          | 219   | 0.49       |                                            
+         '--Class_I                             | 219   | 0.49       |                                            
+             '--LTR                             | 219   | 0.49       |                                            
+                 '--Ty1_copia                   | 219   | 0.49       |                                            
+                     |--Ivana                   | 2     | 0.0044     | 2 (Ty1-PROT),                              
+                     '--SIRE                    | 217   | 0.48       | 171 (Ty1-INT), 34 (Ty1-PROT), 12 (Ty1-RT), "	NA	"237"
+143	449	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"238"
+144	442	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 1     | 0.0023     |         
+ '--organelle                                   | 1     | 0.0023     |         
+     '--plastid                                 | 1     | 0.0023     |         "	NA	"239"
+145	438	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"240"
+146	416	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"241"
+147	396	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"242"
+148	389	"NA"	"                                                | nhits | proportion |           features
+-----------------------------------------------------------------------------------------
+All                                             | 26    | 0.067      |                   
+ '--repeat                                      | 26    | 0.067      |                   
+     '--mobile_element                          | 26    | 0.067      |                   
+         '--Class_II                            | 26    | 0.067      |                   
+             '--Subclass_1                      | 26    | 0.067      |                   
+                 '--TIR                         | 26    | 0.067      |                   
+                     '--EnSpm_CACTA             | 26    | 0.067      | 26 (CACTA-TPase), "	NA	"243"
+149	386	"Ale"	"                                                | nhits | proportion |                       features
+-----------------------------------------------------------------------------------------------------
+All                                             | 256   | 0.66       |                               
+ '--repeat                                      | 256   | 0.66       |                               
+     '--mobile_element                          | 256   | 0.66       |                               
+         '--Class_I                             | 256   | 0.66       |                               
+             '--LTR                             | 256   | 0.66       |                               
+                 '--Ty1_copia                   | 256   | 0.66       |                               
+                     '--Ale                     | 256   | 0.66       | 222 (Ty1-INT), 34 (Ty1-PROT), "	NA	"244"
+150	384	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"245"
+151	380	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"246"
+152	351	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"247"
+153	350	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"248"
+154	327	"LINE"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 279   | 0.85       |                
+ '--repeat                                      | 279   | 0.85       |                
+     '--mobile_element                          | 279   | 0.85       |                
+         '--Class_I                             | 279   | 0.85       |                
+             '--LINE                            | 279   | 0.85       | 279 (LINE-RT), "	NA	"250"
+155	308	"MuDR_Mutator"	"                                                | nhits | proportion |           features
+-----------------------------------------------------------------------------------------
+All                                             | 118   | 0.38       |                   
+ '--repeat                                      | 118   | 0.38       |                   
+     '--mobile_element                          | 118   | 0.38       |                   
+         '--Class_II                            | 118   | 0.38       |                   
+             '--Subclass_1                      | 118   | 0.38       |                   
+                 '--TIR                         | 118   | 0.38       |                   
+                     '--MuDR_Mutator            | 118   | 0.38       | 118 (MuDR-TPase), "	NA	"251"
+156	289	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"252"
+157	289	"Retand"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 104   | 0.36       |                
+ '--repeat                                      | 104   | 0.36       |                
+     '--mobile_element                          | 104   | 0.36       |                
+         '--Class_I                             | 104   | 0.36       |                
+             '--LTR                             | 104   | 0.36       |                
+                 '--Ty3_gypsy                   | 104   | 0.36       |                
+                     '--non-chromovirus         | 104   | 0.36       |                
+                         '--OTA                 | 104   | 0.36       |                
+                             |--Athila          | 1     | 0.0035     | 1 (Ty3-GAG),   
+                             '--Tat             | 103   | 0.36       |                
+                                 '--Retand      | 103   | 0.36       | 103 (Ty3-GAG), "	NA	"253"
+158	288	"PIF_Harbinger"	"                                                | nhits | proportion |               features
+---------------------------------------------------------------------------------------------
+All                                             | 72    | 0.25       |                       
+ '--repeat                                      | 72    | 0.25       |                       
+     '--mobile_element                          | 72    | 0.25       |                       
+         '--Class_II                            | 72    | 0.25       |                       
+             '--Subclass_1                      | 72    | 0.25       |                       
+                 '--TIR                         | 72    | 0.25       |                       
+                     '--PIF_Harbinger           | 72    | 0.25       | 72 (Harbinger-TPase), "	NA	"254"
+159	288	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"255"
+160	284	"Tekay"	"                                                | nhits | proportion |                      features
+----------------------------------------------------------------------------------------------------
+All                                             | 90    | 0.32       |                              
+ '--repeat                                      | 90    | 0.32       |                              
+     '--mobile_element                          | 90    | 0.32       |                              
+         '--Class_I                             | 90    | 0.32       |                              
+             '--LTR                             | 90    | 0.32       |                              
+                 '--Ty3_gypsy                   | 90    | 0.32       |                              
+                     '--chromovirus             | 90    | 0.32       |                              
+                         '--Tekay               | 90    | 0.32       | 55 (Ty3-GAG), 35 (Ty3-PROT), "	NA	"256"
+161	275	"Tekay"	"                                                | nhits | proportion |                      features
+----------------------------------------------------------------------------------------------------
+All                                             | 103   | 0.38       |                              
+ '--repeat                                      | 103   | 0.38       |                              
+     '--mobile_element                          | 103   | 0.38       |                              
+         '--Class_I                             | 103   | 0.38       |                              
+             '--LTR                             | 103   | 0.38       |                              
+                 '--Ty3_gypsy                   | 103   | 0.38       |                              
+                     '--chromovirus             | 103   | 0.38       |                              
+                         '--Tekay               | 103   | 0.38       | 76 (Ty3-GAG), 27 (Ty3-PROT), "	NA	"257"
+162	272	"Tekay"	"                                                | nhits | proportion |       features
+-------------------------------------------------------------------------------------
+All                                             | 70    | 0.26       |               
+ '--repeat                                      | 70    | 0.26       |               
+     '--mobile_element                          | 70    | 0.26       |               
+         '--Class_I                             | 70    | 0.26       |               
+             '--LTR                             | 70    | 0.26       |               
+                 '--Ty3_gypsy                   | 70    | 0.26       |               
+                     '--chromovirus             | 70    | 0.26       |               
+                         '--Tekay               | 70    | 0.26       | 70 (Ty3-GAG), "	NA	"258"
+163	264	"Tekay"	"                                                | nhits | proportion |        features
+--------------------------------------------------------------------------------------
+All                                             | 58    | 0.22       |                
+ '--repeat                                      | 58    | 0.22       |                
+     '--mobile_element                          | 58    | 0.22       |                
+         '--Class_I                             | 58    | 0.22       |                
+             '--LTR                             | 58    | 0.22       |                
+                 '--Ty3_gypsy                   | 58    | 0.22       |                
+                     '--chromovirus             | 58    | 0.22       |                
+                         |--Tekay               | 57    | 0.22       | 57 (Ty3-PROT), 
+                         '--Reina               | 1     | 0.0038     | 1 (Ty3-PROT),  "	NA	"259"
+164	263	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"260"
+165	255	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"261"
+166	251	"Ikeros"	"                                                | nhits | proportion |                   features
+-------------------------------------------------------------------------------------------------
+All                                             | 151   | 0.6        |                           
+ '--repeat                                      | 151   | 0.6        |                           
+     '--mobile_element                          | 151   | 0.6        |                           
+         '--Class_I                             | 151   | 0.6        |                           
+             '--LTR                             | 151   | 0.6        |                           
+                 '--Ty1_copia                   | 151   | 0.6        |                           
+                     |--Ikeros                  | 150   | 0.6        | 56 (Ty1-RH), 94 (Ty1-RT), 
+                     '--Ivana                   | 1     | 0.004      | 1 (Ty1-RH),               "	NA	"262"
+167	250	"NA"	"                                                | nhits | proportion | features
+-------------------------------------------------------------------------------
+All                                             | 0     | 0          |         "	NA	"263"

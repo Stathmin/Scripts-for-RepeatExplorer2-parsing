@@ -1,0 +1,4 @@
+"triticeae"[porgn:__txid147389] AND ("repeat"[Title] OR "repetitive"[Title] OR "enriched"[Title] OR "satellite"[Title] OR "transposon"[Title] OR "gypsy"[Title] OR "telomer"[Title] OR "marker"[Title] OR "anchor"[Title] OR "retrotransposon"[Title] OR "microsatellite"[Title] OR "repeated"[Title])
+
+cat 'ncbi_repeats.fasta'| sed -Ez 's#\n##g'|sed -E 's#([ATCGNWRMY]{10,})#\n\1\1\1\n#g' > ncbi_repeats_x3.fasta
+blastn -query ../local_db_solo/multifasta_x3.fasta -db ./ncbi_repeats_x3.fasta -word_size 5 -outfmt 6 >> blast_to_ncbi_x3.csv
