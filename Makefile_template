@@ -1,0 +1,24 @@
+
+.PHONY: clean check_quality
+
+all: clean_reads check_quality interlace sample_reads run_RE
+
+clean_reads:
+	$(MAKE) -C cleaned_reads/
+check_quality:
+	$(MAKE) -C fastqc_cleaned_reads/
+interlace:
+	$(MAKE) -C interlaced/
+sample_reads:
+	$(MAKE) -C samples_reads/
+run_RE:
+	$(MAKE) -C RE_results/
+	
+
+
+clean:
+	$(MAKE) -C cleaned_reads/ clean
+	$(MAKE) -C fastqc_cleaned_reads/ clean
+	$(MAKE) -C samples_reads/ clean
+	$(MAKE) -C RE_results/ clean
+

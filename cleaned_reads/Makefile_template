@@ -1,0 +1,14 @@
+ADAPTERS_FASTA = $(shell readlink -f !ADAPTERS!)
+BBDUK_PARAMS = !BBDUK_PARAMS!
+
+.PHONY: clean
+
+
+all: clean_!INDEX!
+
+clean_!INDEX!:
+	bbduk.sh in=!PATHR1FASTQGZ! in2=!PATHR2FASTQGZ! out=stdout.fq ref=$(ADAPTERS_FASTA) $(BBDUK_PARAMS) 2> /dev/null | bbduk.sh in=stdin.fq out=!INDEX!_R1.fq out2=!INDEX!_R2.fq int=t ftr=199 2> /dev/null
+	sed -Ei 's#^(\@[A-Za-z0-9]+)\/[12]$$#\1#' *.fq
+
+clean:
+	rm -rfv *.fq

@@ -1,0 +1,12 @@
+.ONESHELL:
+.PHONY: clean
+
+SHELL=/bin/bash
+CONDA_ACTIVATE=source /home/dulyanov/anaconda3/etc/profile.d/conda.sh ; conda activate ; conda activate
+
+
+interlace:
+	($(CONDA_ACTIVATE) /home/ermolaev/miniconda3/envs/repeatexplorer ; export TEMP=$(shell pwd)/tmp; PYTHONHASHSEED=0; mkdir ./tmp ;python3 prepareReadsRE.py --randomN 1250000 ../cleaned_reads/!INDEX!_R1.fq ../cleaned_reads/!INDEX!_R2.fq !INDEX! | tee log_!INDEX!.txt ; /home/ermolaev/soft/repex_tarean/seqclust --assembly_min 4 -p -v ../!INDEX!_RepExRES -c 48 --mincl=0.001 -r 178067846 ./!INDEX!prepared_forRE.fasta; find ../ -name *hitsort* -delete; rm -rf $(shell pwd)/tmp)
+
+clean:
+	rm -rvf $(wildcard *prepared*)

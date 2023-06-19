@@ -1,0 +1,10 @@
+
+.PHONY: clean
+
+
+check_quality: 
+	fastqc -t 50 $(shell ls ../cleaned_reads/*.fq) -o $(shell echo $$PWD) --quiet
+
+
+clean:
+	rm -rvf $(wildcard *fastqc*)
