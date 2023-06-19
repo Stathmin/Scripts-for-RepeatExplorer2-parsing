@@ -82,7 +82,9 @@ def blast_coordinator(tasks, db_dict, input_fasta, input_fasta_abs, num_threads,
 def df_cleaner(df,tasks):
     #drops HSPs with E-value > 0.05, sets column data types, gets lengths FROM NAMES for single and trippled seqs (requires RepeatExpolere naming format for seqs)
     df = pd.DataFrame(df)
-    df = df[df['evalue']<=0.05].reset_index().drop('index', axis=1)
+    df = df[df['evalue']<=0.01].reset_index().drop('index', axis=1)
+    #NEW
+    df = df[df['pident']>=90].reset_index().drop('index', axis=1)
     df['task'] = pd.Categorical(df['task'], tasks)
     df['db'] = pd.Categorical(df['db'], ['ref', 'ncbi', 'local', 'comp', 'ncbi_x3', 'local_x3', 'comp_x3'])
     df['qlength'] = df['qseqid'].apply(lambda x: re.findall('\d+', x)[-1]).astype(int)
@@ -221,10 +223,11 @@ def apply_leven(df):
         ncbi_names = sorted(list(set(frame['sseqid'].tolist())))
         list_to_remain=[ncbi_names[0], ]
         for i in ncbi_names[1:]:
-            if levenshtein(list_to_remain[-1], i) > 3:
+            if levenshtein(list_to_remain[-1], i) > 1:
                 list_to_remain.append(i)
         list_to_drop = list(set(ncbi_names) - set(list_to_remain))
         frame = frame[~frame['sseqid'].isin(list_to_drop)]
+        print(frame)
         framelist.append(frame)
         print(list_to_drop, list_to_remain)
     final_df = pd.concat([df[df['db']!='ncbi'], pd.concat(framelist)])
@@ -291,8 +294,8 @@ def slice_dbs(patterns_list, dbs_list, output_path, db_dict):
 def blaster(tasks = ['megablast', 'dc-megablast', 'blastn'], 
             num_threads = 20, 
             verbose = True, 
-            subjects = ['KA25', 'KA26', 'V1', 'KA25KA26(1to1)', 'KA25KA26(1to5)', 'KK9(old)', 'KK11(old)'],
-            dbs = ['local', 'local', 'local', 'comp', 'comp', 'local', 'local']
+            subjects = ['KP1', 'KP2', 'KP3', 'KP6', 'KP7', 'KP8', 'KP10'],
+            dbs = ['local', 'local', 'local', 'local', 'local', 'local', 'local']
            ):
 
     db_dict = {
@@ -301,7 +304,9 @@ def blaster(tasks = ['megablast', 'dc-megablast', 'blastn'],
                'local':'./local_db_solo/multifasta.fasta',
                'local_x3':'./local_db_solo/multifasta_x3.fasta',
                'comp':'./comparatives_db/COMPBASE.fasta',
-               'comp_x3':'./comparatives_db/COMPBASE_x3.fasta'
+               'comp_x3':'./comparatives_db/COMPBASE_x3.fasta',
+               'ref':'./important_db/reference.fasta'
+               
               }
 
     patterns = [protect_brackets(x)+'_.*' for x in subjects] # example: KA25_CL1_TR_x1_320nt would be found if KA25 is in subjects
@@ -335,7 +340,8 @@ def blaster(tasks = ['megablast', 'dc-megablast', 'blastn'],
     df = sort_for_rules(df, subjects)
     df = remove_self_blasts(df)
     df = filter_by_e_value(df)
-    df = apply_leven(df)
+
+    #df = apply_leven(df)
     if len(subjects) > 1:
         df = stairway_view(df)
 
