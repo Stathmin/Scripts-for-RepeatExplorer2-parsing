@@ -1,5 +1,6 @@
 # Scripts-for-RepeatExplorer2-parsing
-![image](https://github.com/Stathmin/Scripts-for-RepeatExplorer2-parsing/assets/55657873/c23d7f66-8c10-4dcd-b468-b2a72771fdea)
+![image](https://github.com/Stathmin/Scripts-for-RepeatExplorer2-parsing/assets/55657873/e9a6ce66-2d28-490f-97c2-5b10640c3a65)
+
 
 ./screenshot_repex.py - script used to copy the most infromative lightweight files from RepeatExplorer2 output
 
