@@ -1,4 +1,6 @@
 # Scripts-for-RepeatExplorer2-parsing
+![image](https://github.com/Stathmin/Scripts-for-RepeatExplorer2-parsing/assets/55657873/c23d7f66-8c10-4dcd-b468-b2a72771fdea)
+
 ./screenshot_repex.py - script used to copy the most infromative lightweight files from RepeatExplorer2 output
 
 ./KA16, ./KA27, ./KA25KK6(1to2) - examples of RepeatExplorer2 output, copied with screenshot_repex.py
